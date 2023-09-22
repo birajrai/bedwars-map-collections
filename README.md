@@ -1,0 +1,1 @@
+# bedwars-map-collections
